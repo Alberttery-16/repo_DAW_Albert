@@ -1,1 +1,3 @@
+Resolución final: se combinan las dos versiones
 Cambio distinto realizado en la rama main
+Cambio realizado en la rama segunda
